@@ -22,7 +22,6 @@ title: Phousawanh Peaungvongpakdy
 description: Phousawanh's personal website! # >- # this means to ignore newlines until "baseurl:"
 
 domain: ppeaung.github.io    
-baseurl: /myblog/ # the subpath of your site, e.g. /blog
 url: https://ppeaung.github.io # the base hostname & protocol for your site, e.g. http://example.com
 email: p.peaungvongpakdy@wsu.edu
 
