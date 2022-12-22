@@ -9,12 +9,5 @@ Here are some of the research/projects I worked on in the past:
 
 Here are some of the current projects I am working on: 
 - Election Forecasting with a Sigmoidal Opinion Dynamics Model 
-- Exploring voting data with Representation Theory
-
-## Notes
-
-Below are notes for various math classes that I've taken so far. Note that some of the notes may not be complete.
-
-- Math 501: Real Analysis @ WSU 
-- Math 516: Simulations @ WSU 
-- Math 587: Representation Theory @ WSU 
+- Analyzing Ranked Choice Voting Data in Alaksa 
+- Community Detection in U.S. Congress using a nonbacktracking clustering method for hypergraphs
